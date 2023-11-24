@@ -1,7 +1,7 @@
 # codepath_prework
-#Instagram
-#-liking stories
-#-quick share 
+Instagram
+\nliking stories
+\nquick share 
 #Snapchat 
 #reacting to stories
 #private groups 
